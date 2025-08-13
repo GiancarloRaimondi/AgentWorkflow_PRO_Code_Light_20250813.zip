@@ -1,0 +1,9 @@
+{
+  "MERASSI": {
+    "ISIN": "ISIN",
+    "Strumento": "Descrizione prodotto",
+    "Quantita": "Q.tà",
+    "Valore": "Controvalore attuale",
+    "Valuta": "Divisa"
+  }
+}
